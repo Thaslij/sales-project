@@ -1,0 +1,2 @@
+database:
+  dsn: "host=localhost user=sales password=root dbname=postgres port=5432 sslmode=disable"
